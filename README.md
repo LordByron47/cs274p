@@ -27,5 +27,4 @@ We will go over how to use this repository in the first Lab discussion.
 ## Week 4
 [Sentiment Analysis using Word Embeddings and CNNs](https://github.com/isakbosman/cs274p_private/blob/master/nbs/week4/CNN%20Model%20for%20Sentiment%20Analysis.ipynb)
 
-[Sentiment Analysis using Word Embeddigns and LSTMs]
-(https://github.com/isakbosman/cs274p_private/blob/master/nbs/week4/LSTM%20Model%20for%20Sentiment%20Analysis.ipynb)
+[Sentiment Analysis using Word Embeddigns and LSTMs](https://github.com/isakbosman/cs274p_private/blob/master/nbs/week4/LSTM%20Model%20for%20Sentiment%20Analysis.ipynb)
