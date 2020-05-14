@@ -28,3 +28,6 @@ We will go over how to use this repository in the first Lab discussion.
 [Sentiment Analysis using Word Embeddings and CNNs](https://github.com/isakbosman/cs274p/blob/master/nbs/week4/CNN%20Model%20for%20Sentiment%20Analysis.ipynb)
 
 [Sentiment Analysis using Word Embeddigns and LSTMs](https://github.com/isakbosman/cs274p/blob/master/nbs/week4/LSTM%20Model%20for%20Sentiment%20Analysis.ipynb)
+
+## Week 7
+[Transfer Learning](https://github.com/isakbosman/cs274p/blob/master/nbs/week7/TransferLearning.ipynb)
