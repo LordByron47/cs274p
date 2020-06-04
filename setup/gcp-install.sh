@@ -18,6 +18,7 @@ nvidia-smi
 # install Anaconda for current user
 mkdir downloads
 cd downloads
+sudo apt-key adv --fetch-keys http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/7fa2af80.pub
 wget "https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh" -O "Anaconda3-2020.02-Linux-x86_64.sh"
 bash "Anaconda3-2020.02-Linux-x86_64.sh" -b
 
@@ -25,7 +26,7 @@ echo "export PATH=\"$HOME/anaconda3/bin:\$PATH\"" >> ~/.bashrc
 export PATH="$HOME/anaconda3/bin:$PATH"
 conda install -y bcolz
 conda upgrade -y --all
-conda install pytorch torchvision cudatoolkit
+conda install pytorch torchvision cudatoolkit -y
 
 
 jupyter notebook --generate-config
